@@ -1,6 +1,18 @@
-$options = array(
-    array('value' => 'option1', 'label' => '옵션 1'),
-    array('value' => 'option2', 'label' => '옵션 2'),
-    array('value' => 'option3', 'label' => '옵션 3'),
-    // 추가 옵션들...
-);
+{
+  "list": [
+    {
+      "key1": "value1",
+      "key2": "value1",
+      "key3": "value1",
+      "key4": "value1",
+      "key5": "value1"
+    },
+    {
+      "key1": "value2",
+      "key2": "value2",
+      "key3": "value2",
+      "key4": "value2",
+      "key5": "value2"
+    }
+  ]
+}
